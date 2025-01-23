@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and python**
 
-- 🤝 I’m looking for help with **Front end devlopment**
+- 🤝 I’m looking for help with **React js Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejas010601?tab=repositories](https://github.com/Tejas010601?tab=repositories)
 
